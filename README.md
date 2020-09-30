@@ -61,6 +61,7 @@ simplified by 75 native German speakers. Subjective ratings on complexity of sim
 
 ## Contact
 For information on the orginal dataset contact Babak Naderi (babak.naderi[at]tu-berlin.de) with any questions. 
+
 For information on the splits contact Jonathan Mallinson (jsmallins[at]gmail.com) with any questions. 
 
 
