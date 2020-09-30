@@ -1,6 +1,6 @@
 # Text Complexity DE Test/Dev set
 
-This repo consists of the test and dev splits of _TextComplexityDE_ as used within [Zero-Shot Crosslingual Sentence Simplification] (http://link.to.come.later)
+This repo consists of the test and dev splits of _TextComplexityDE_ as used within [Zero-Shot Crosslingual Sentence Simplification](http://link.to.come.later)
 
 Files can be found at TextComplexityDE19/test.[src|tgt] and TextComplexityDE19/dev.[src|tgt]
 
